@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="General",Adult Swim
+#EXTINF:0 tvg-id="ext" group-title="General; Niños",Adult Swim
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
